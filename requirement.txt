@@ -30,7 +30,10 @@ python-dateutil==2.7.5
 pyzmq==17.1.2
 query-string==2018.11.20
 requests==2.21.0
+scikit-learn==0.20.2
+scipy==1.2.0
 six==1.12.0
+sklearn==0.0
 tornado==5.1.1
 tqdm==4.29.1
 traitlets==4.3.2
