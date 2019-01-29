@@ -18,7 +18,7 @@ This repository contains all the work that I am doing for autonomous SDC to work
 
 	Note: As my system had 6 GB GTX1060 graphics card; Graphics driver 388.73(which came pre-installed in my system worked correctly. so, please use pre-installed driver, don't upgrade it otherwise it won't work atleast in my case it didn't). you need to copy cudann library into respective cuda toolkit installed folder and restart.
 	
-3. once it is installed run notebooks '04_basic_cnn_model_in_keras.ipynb' and '05_test_notebook_to_verify_gpu_setup.ipynb'. first notebook will train digit classifier if everything is setup correctly it will work without any error. the second notebook with perform basic calculation on GPU explictly, so if `tensflow-gpu` is setup correctly then it will should you available GPU hardware list and perform calculation on it.
+3. once it is installed run notebooks '04_basic_cnn_model_in_keras.ipynb' and '05_test_notebook_to_verify_gpu_setup.ipynb'. first notebook will train digit classifier if everything is setup correctly it will work without any error. while the second notebook will perform basic calculation on GPU explictly, so if `tensflow-gpu` is setup correctly then it will show you available GPU hardware list and perform calculation on them.
 
 Have fun!
 If you find any bug please feel to send me PR to merge. Thanks in advance.
