@@ -20,7 +20,7 @@ This repository contains all the work that I am doing for autonomous SDC to work
 	
 3. once it is installed run notebooks '04_basic_cnn_model_in_keras.ipynb' and '05_test_notebook_to_verify_gpu_setup.ipynb'. first notebook will train digit classifier if everything is setup correctly it will work without any error. while the second notebook will perform basic calculation on GPU explictly, so if `tensflow-gpu` is setup correctly then it will show you available GPU hardware list and perform calculation on them.
 
-##Jupyter tips and tricks:
+## Jupyter tips and tricks:
 This section documents all the useful tips that would be helpful for beginners like me to increase their productivity in writing jupyter notebooks, which I wish I new when I started.
 
 - read them from [here](https://github.com/JahanAjani/SelfDrivingCar/blob/master/jupyter_tips.md). 
