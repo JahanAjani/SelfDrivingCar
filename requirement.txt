@@ -55,6 +55,8 @@ protobuf==3.6.1
 public==2018.11.20
 Pygments==2.3.1
 pyparsing==2.3.0
+PyQt5==5.12
+PyQt5-sip==4.19.14
 python-dateutil==2.7.5
 pytz==2018.9
 pywinpty==0.5.5
