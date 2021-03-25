@@ -60,7 +60,7 @@ PyQt5-sip==4.19.14
 python-dateutil==2.7.5
 pytz==2018.9
 pywinpty==0.5.5
-PyYAML==4.2b1
+PyYAML==5.4
 pyzmq==17.1.2
 query-string==2018.11.20
 requests==2.21.0
